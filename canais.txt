@@ -1,0 +1,699 @@
+[
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-paramountplus1.jpg",
+    "title": "Paramount+ 1",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=paramountplus1",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-paramountplus2.jpg",
+    "title": "Paramount+ 2",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=paramountplus2",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-primevideo1.jpg",
+    "title": "Prime Video 1",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=primevideo1",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-primevideo2.jpg",
+    "title": "Prime Video 2",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=primevideo2",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-primevideo3.jpg",
+    "title": "Prime Video 3",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=primevideo3",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-primevideo4.jpg",
+    "title": "Prime Video 4",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=primevideo4",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-starplus1.jpg",
+    "title": "Star+ 1",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=starplus1",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-starplus2.jpg",
+    "title": "Star+ 2",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=starplus2",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-starplus3.jpg",
+    "title": "Star+ 3",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=starplus3",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-ufcfightpass.jpg",
+    "title": "UFC Fight Pass",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=ufcfightpass",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-aie.jpg",
+    "title": "A\u0026E",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=aie",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-amc.jpg",
+    "title": "AMC",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=amc",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-animalplanet.jpg",
+    "title": "Animal Planet",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=animalplanet",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-arte1.jpg",
+    "title": "Arte 1",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=arte1",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-axn.jpg",
+    "title": "AXN",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=axn",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-band.jpg",
+    "title": "Band",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=band",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-bandnews.jpg",
+    "title": "Band News",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=bandnews",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-bandsports.jpg",
+    "title": "Band Sports",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=bandsports",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-bis.jpg",
+    "title": "BIS",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=bis",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-canalbrasil.jpg",
+    "title": "Canal Brasil",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=canalbrasil",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-cancaonova.jpg",
+    "title": "Canção Nova",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=cancaonova",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-cartoon.jpg",
+    "title": "Cartoon Network",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=cartoon",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-cartoonito.jpg",
+    "title": "Cartoonito",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=cartoonito",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-cinecanal.jpg",
+    "title": "Cinecanal",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=cinecanal",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-cinemax.jpg",
+    "title": "Cinemax",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=cinemax",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-cnnbrasil.jpg",
+    "title": "CNN Brasil",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=cnnbrasil",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-combate.jpg",
+    "title": "Combate",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=combate",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-comedycentral.jpg",
+    "title": "Comedy Central",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=comedycentral",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-curta.jpg",
+    "title": "Curta!",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=curta",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-discovery.jpg",
+    "title": "Discovery Channel",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=discovery",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-discoveryhomeihealth.jpg",
+    "title": "Discovery Home \u0026 Health",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=discoveryhomeihealth",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-discoverykids.jpg",
+    "title": "Discovery Kids",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=discoverykids",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-discoverysience.jpg",
+    "title": "Discovery Science",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=discoverysience",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-discoverytheater.jpg",
+    "title": "Discovery Theater",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=discoverytheater",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-discoveryturbo.jpg",
+    "title": "Discovery Turbo",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=discoveryturbo",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-discoveryworld.jpg",
+    "title": "Discovery World",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=discoveryworld",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-disney.jpg",
+    "title": "Disney Channel",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=disney",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-canale.jpg",
+    "title": "E! Entertainment",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=canale",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-espn.jpg",
+    "title": "ESPN",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=espn",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-espn2.jpg",
+    "title": "ESPN 2",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=espn2",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-espn3.jpg",
+    "title": "ESPN 3",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=espn3",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-espn4.jpg",
+    "title": "ESPN 4",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=espn4",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-espnextra.jpg",
+    "title": "ESPN Extra",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=espnextra",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-fishtv.jpg",
+    "title": "Fish TV",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=fishtv",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-foodnetwork.jpg",
+    "title": "Food Network",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=foodnetwork",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-foxsports2.jpg",
+    "title": "Fox Sports 2",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=foxsports2",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-fx.jpg",
+    "title": "FX",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=fx",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-globonews.jpg",
+    "title": "Globo News",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=globonews",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-bobonordeste.jpg",
+    "title": "Globo Nordeste",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=bobonordeste",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-boborj.jpg",
+    "title": "Globo RJ",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=boborj",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-bobosp.jpg",
+    "title": "Globo SP",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=bobosp",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-gloob.jpg",
+    "title": "Gloob",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=gloob",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-gloobinho.jpg",
+    "title": "Gloobinho",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=gloobinho",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-gnt.jpg",
+    "title": "GNT",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=gnt",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-hbo.jpg",
+    "title": "HBO",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=hbo",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-hbo2.jpg",
+    "title": "HBO 2",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=hbo2",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-hbofamily.jpg",
+    "title": "HBO Family",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=hbofamily",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-hbomundi.jpg",
+    "title": "HBO Mundi",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=hbomundi",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-hboplus.jpg",
+    "title": "HBO Plus",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=hboplus",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-hbopop.jpg",
+    "title": "HBO Pop",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=hbopop",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-hbosignature.jpg",
+    "title": "HBO Signature",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=hbosignature",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-hboxtreme.jpg",
+    "title": "HBO Xtreme",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=hboxtreme",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-hgtv.jpg",
+    "title": "HGTV",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=hgtv",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-history2.jpg",
+    "title": "History 2 - H2",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=history2",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-history.jpg",
+    "title": "History Channel",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=history",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-investigacaodiscovery.jpg",
+    "title": "Investigação Discovery",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=investigacaodiscovery",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-lifetime.jpg",
+    "title": "Lifetime",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=lifetime",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-megapix.jpg",
+    "title": "Megapix",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=megapix",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-modoviagem.jpg",
+    "title": "Modo Viagem",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=modoviagem",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-mtv.jpg",
+    "title": "MTV",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=mtv",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-mtvlive.jpg",
+    "title": "MTV Live",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=mtvlive",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-multishow.jpg",
+    "title": "Multishow",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=multishow",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-natgeo.jpg",
+    "title": "National Geographic Channel",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=natgeo",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-nickjr.jpg",
+    "title": "Nick Jr.",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=nickjr",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-nick.jpg",
+    "title": "Nickelodeon: Nick",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=nick",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-off.jpg",
+    "title": "Off",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=off",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-paramount.jpg",
+    "title": "Paramount Channel",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=paramount",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-premiereclubes.jpg",
+    "title": "Premiere Clubes",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=premiereclubes",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-premiere2.jpg",
+    "title": "Premiere 2",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=premiere2",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-premiere3.jpg",
+    "title": "Premiere 3",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=premiere3",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-premiere4.jpg",
+    "title": "Premiere 4",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=premiere4",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-premiere5.jpg",
+    "title": "Premiere 5",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=premiere5",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-premiere6.jpg",
+    "title": "Premiere 6",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=premiere6",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-premiere7.jpg",
+    "title": "Premiere 7",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=premiere7",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-premiere8.jpg",
+    "title": "Premiere 8 (Mosaico)",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=premiere8",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-primeboxbrazil.jpg",
+    "title": "Prime Box Brazil",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=primeboxbrazil",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-recordnews.jpg",
+    "title": "Record News",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=recordnews",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-record.jpg",
+    "title": "Record TV",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=record",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-redetv.jpg",
+    "title": "Rede TV",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=redetv",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-sbt.jpg",
+    "title": "SBT",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=sbt",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-sony.jpg",
+    "title": "Sony",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=sony",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-space.jpg",
+    "title": "Space",
+    "url": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assistir-space-online-24-horas-ao-vivo_568e0b475.html",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-sportv1.jpg",
+    "title": "SporTV",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=space",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-sportv2.jpg",
+    "title": "SporTV 2",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=sportv2",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-sportv3.jpg",
+    "title": "SporTV 3",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=sportv3",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-starchannel.jpg",
+    "title": "Star Channel",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=starchannel",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-studiouniversal.jpg",
+    "title": "Studio Universal",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=studiouniversal",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-syfy.jpg",
+    "title": "Syfy",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=syfy",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-tcm.jpg",
+    "title": "TCM",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=tcm",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-telecineaction.jpg",
+    "title": "Telecine Action",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=telecineaction",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-telecinecult.jpg",
+    "title": "Telecine Cult",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=telecinecult",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-telecinefun.jpg",
+    "title": "Telecine Fun",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=telecinefun",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-telecinepipoca.jpg",
+    "title": "Telecine Pipoca",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=telecinepipoca",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-telecinepremium.jpg",
+    "title": "Telecine Premium",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=telecinepremium",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-telecinetouch.jpg",
+    "title": "Telecine Touch",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=telecinetouch",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-tlc.jpg",
+    "title": "TLC",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=tlc",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-tnt.jpg",
+    "title": "TNT",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=tnt",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-tntnovelas.jpg",
+    "title": "TNT Novelas",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=tntnovelas",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-tntseries.jpg",
+    "title": "TNT Series",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=tntseries",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-tooncast.jpg",
+    "title": "Tooncast",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=tooncast",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-travelboxbrazil.jpg",
+    "title": "Travel Box Brazil",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=travelboxbrazil",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-trutv.jpg",
+    "title": "TruTV",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=trutv",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-universal.jpg",
+    "title": "Universal TV",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=universal",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-viva.jpg",
+    "title": "Viva",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=viva",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-warner.jpg",
+    "title": "Warner TV",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=warner",
+    "ast":"false"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-woohoo.jpg",
+    "title": "Woohoo",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=woohoo",
+    "ast":"false"
+  }
+]
+      
